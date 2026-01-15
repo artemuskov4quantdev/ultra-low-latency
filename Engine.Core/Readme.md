@@ -1,4 +1,4 @@
-﻿Deterministic Low-Latency Event Engine (C#)
+﻿# Deterministic Low-Latency Event Engine (C#)
 Ultra-low-latency, deterministic, replayable in-memory trading core
 
 This repository contains a deterministic low-latency event processing core,
